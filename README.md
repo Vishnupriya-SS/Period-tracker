@@ -1,7 +1,7 @@
 # 🩸 Period Tracker & Mood Logger
 
 A lightweight **Streamlit app** that allows users to log period data, track mood and symptoms, and predict their next period using **Linear Regression**. The app also checks for **menstrual regularity** and stores all entries for reference.
-
+To run use Period_Tracker_Predictor.py script , the other script is the console script
 ---
 
 ## 📌 Features
